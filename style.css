@@ -1,0 +1,94 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+
+}
+.color-aqua{
+    color: aqua;
+}
+.intro{
+    padding: 50px;
+}
+.button{
+    padding: 20px;
+}
+.margin{
+    padding: 100px;
+}
+section{
+    display: flex;
+    margin: 0 auto;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 15px 35px;
+    border-radius: 10px;
+    
+}
+.margin-bottom{
+
+}
+.Heading-section{
+    text-align: center;
+    margin-top: 200px;
+
+}
+.column-all{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px;
+}
+.Mission{
+    width: 250px;
+    border: 2px solid antiquewhite;
+    background-color: aquamarine;
+}
+.div-img img{
+    width: 100%;
+    
+}
+.Vission{
+    width: 250px;
+    border: 2px solid violet;
+    background-color: darkmagenta;
+}
+.Goals{
+    width: 250px;
+    border: 2px solid paleturquoise;
+    background-color: palegreen;
+}
+.img-coding img{
+    width: 60%;
+}
+.header{
+    font-family: 'Be Vietnam Pro', sans-serif;
+   
+}.content{
+   height: 30%;    
+   
+}
+
+
+
+
+
+
+
+
+
+
